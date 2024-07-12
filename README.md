@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [MyMobiConf](https://www.mymobiconf.caf.ufv.br/);
+- 🌱 I’m currently learning about GitHub Actions, IONIC, Django, Flask.
+
+![altybelle's stats](https://github-readme-stats.vercel.app/api?username=altybelle&show=reviews,prs_merged,prs_merged_percentage)
